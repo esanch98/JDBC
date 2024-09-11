@@ -1,0 +1,28 @@
+= M5
+= Activitat - Escenari Ansible - ntp server
+:revdate: Maig 17, 2019
+:revnumber: 1.0
+:doctype: article
+:encoding: utf-8
+:lang: ca
+:toc: left
+:toc-title: Índex  de continguts
+:toclevels: 3
+:sectnums:
+
+=  Control de versions Git
+
+==  Introducció
+
+xxxxx
+
+==  Operacions
+
+===  Commit
+
+xxxx
+
+Exemple:
+
+image::xxx.jpg[xxx.jpg]
+
